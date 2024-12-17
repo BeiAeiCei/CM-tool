@@ -57,4 +57,3 @@ void printMatrix(float *matrix, int rows, int cols, const char *filename, int li
         printf("\n");
     }
 }
-
